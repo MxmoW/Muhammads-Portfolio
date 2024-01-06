@@ -1,4 +1,4 @@
-/* const scriptParent = document.currentScript.parentElement;
+const scriptParent = document.currentScript.parentElement;
 const popup = scriptParent.getElementsByClassName("social-popup")[0];
 
 scriptParent.addEventListener("mouseleave", () => {
@@ -21,4 +21,3 @@ window.addEventListener("load", () => {
     });
 
 });
-*/
