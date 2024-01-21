@@ -1,4 +1,4 @@
-let lightTheme = false;
+let lightTheme = true;
 let colorSwitch;
 
 function updateColor(){
