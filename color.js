@@ -6,7 +6,7 @@ function updateColor(){
         document.body.classList.add("light");
     }
     else{
-        document.body.classList.add("light");
+        document.body.classList.remove("light");
     }
 }
 
